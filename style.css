@@ -695,6 +695,7 @@ main::after {
   100% {  transform: scale(1, .8) translateY(0); }
 }
 
+
 /* Credits */
 footer {
   position: absolute;
